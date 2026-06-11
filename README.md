@@ -2,7 +2,7 @@
 
 > Portfolio project built on a ServiceNow Personal Developer Instance (PDI). The goal is to reduce notification burden by collecting relevant activity during the day and sending one consolidated digest email per user at the end of the business day.
 
-![Presentation](presentation/daily-digest-presentation.pdf)
+[Presentation Link](presentation/daily-digest-presentation.pdf)
 
 ## Disclaimer
 
@@ -181,6 +181,8 @@ custom-servicenow-daily-digest-email-notification/
 
 ![High level architecture](docs/images/00-high-level-architecture.png)
 
+
+
 This diagram shows the full flow:
 
 ```text
@@ -189,7 +191,7 @@ Activity happens → Business Rules catch the activity → DailyDigestQueue stor
 
 ### 2. Full Demo Flow
 
-![Demo flow](docs/images/05-full-demo-flow.mp4)
+https://github.com/user-attachments/assets/713bbbce-e52e-4a8d-bca3-aa01c60cdc72
 
 ### 3. Demo Images
 
