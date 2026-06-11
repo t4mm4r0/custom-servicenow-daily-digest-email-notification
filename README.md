@@ -46,7 +46,7 @@ The ServiceNow version used is **Zurich**. The implementation includes three cus
 | `u_daily_digest_item` | Stores queued activity items before they are sent. |
 | `u_daily_digest_run` | Stores one digest send attempt for one user and one time window. |
 
-It also includes Script Includes, Business Rules, Scheduled Script Executions, a custom event, an Email Notification, an Email Script, ACL rules, system properties, and a small unsubscribe UI page. For more details keep reading the following sections or refer to [CUSTOM_CONFIGS.md](docs/CUSTOM_CONFIGS.md) file or to [scripts](scripts/) folder.
+It also includes Script Includes, Business Rules, Scheduled Script Executions, a custom event, an Email Notification, an Email Script, ACL rules, system properties, and a small unsubscribe UI page. For more details keep reading the following sections or refer to [CUSTOM_CONFIGS.md](docs/CUSTOM_CONFIGS.MD) file or to [scripts](scripts/) folder.
 
 ## Architecture
 
